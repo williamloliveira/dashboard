@@ -12,7 +12,7 @@ Conhecimentos necessários:
 - Python
 
 
-> Python é muito foda
+> Python é muito bom!
 
 ``` python
 for i in range(10):
